@@ -1,5 +1,5 @@
 # Recommendation-Engines
-![](https://github.com/iurigo/Recommendation-Engines/blob/master/image.png)
+![](https://github.com/iurigo/Recommendation-Engines/blob/master/image.jpg)
 
 A recommender system or a recommendation system is a subclass of information filtering system that seeks to predict the "rating" or "preference" that a user would give to an item.
 
